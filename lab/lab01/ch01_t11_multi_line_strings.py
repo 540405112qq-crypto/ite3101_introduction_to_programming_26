@@ -1,1 +1,2 @@
-haiku ="""The ol"""d pond,
+haiku ="""The old pond,
+A frog jumps in:
