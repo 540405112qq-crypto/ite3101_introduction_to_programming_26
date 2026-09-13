@@ -1,1 +1,1 @@
-haiku ="""T"""
+haiku ="""The ol"""d pond,
