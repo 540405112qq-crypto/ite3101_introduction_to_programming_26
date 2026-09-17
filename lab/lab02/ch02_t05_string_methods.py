@@ -1,2 +1,2 @@
-parrot = "Nor"
+parrot = "Norwegian Blue"
 rint
