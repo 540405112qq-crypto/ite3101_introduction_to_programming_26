@@ -1,1 +1,1 @@
-Please print the phrase "Pig Latin":
+ print the phrase "Pig Latin":
