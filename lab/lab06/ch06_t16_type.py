@@ -1,5 +1,5 @@
 # Print out the types of an integer, a float,
 # and a string on separate lines below.
-print(1)
+print(type(1)
 print(1.1)
 print
