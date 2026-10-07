@@ -1,4 +1,5 @@
 def shut_down(s:str)->str:
    if s =="yes":
       return "shutting down"
-   if s==
+   if s=="no"
+no
