@@ -3,5 +3,4 @@ def shut_down(s:str)->str:
       return "shutting down"
    elif s =="no":
     return "shutdown aborted"
-else:
     return "sorry"
