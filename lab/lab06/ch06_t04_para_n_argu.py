@@ -1,5 +1,5 @@
-def power(base:float,new_word):  # Add your parameters here!
-    result = base ** new_word
+def power(base:float,):  # Add your parameters here!
+    result = base ** 
     print("%d to the power of %d is %d." % (base, exponent, result))
 
 
