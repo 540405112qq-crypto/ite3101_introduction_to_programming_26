@@ -1,1 +1,1 @@
-def distance_from
+def distance_from_z
