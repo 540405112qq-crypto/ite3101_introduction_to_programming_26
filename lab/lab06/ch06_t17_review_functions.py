@@ -1,1 +1,3 @@
 def shut_dowm(s:str)->str:
+
+    
