@@ -1,5 +1,5 @@
 animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
-duck_index =  animals.inde() # Use index() to find "duck"
+duck_index =  animals.inde("duck") # Use index() to find "duck"
 
 # Your code here!
 
