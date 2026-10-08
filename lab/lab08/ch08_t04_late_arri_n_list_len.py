@@ -1,4 +1,4 @@
-suitcase = [1]
+suitcase = []
 suitcase.append("sunglasses")
 
 # Your code here!
