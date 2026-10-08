@@ -4,7 +4,7 @@ animals = "catdogfrog"
 cat = my list[:3]
 
 # The fourth through sixth characters
-dog = 
+dog = my list[5]
 
 # From the seventh character to the end
-frog = None
+frog = 
