@@ -12,7 +12,7 @@ del zoo_animals['Unicorn']
 # Your code here!
 del zoo_animals['Sloth']
 del zoo_animals['Bengal Tiger']
-dict_ = new_value
+dict_['Rockhopper Penguin'] = new_value
 
 
 
