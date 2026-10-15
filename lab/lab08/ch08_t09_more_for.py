@@ -3,5 +3,5 @@ square_list = []
 
 # Your code here!
 for num in start_list:
-    square_listappend(num **2)
+    square_list.append(num **2)
 print(square_list)
