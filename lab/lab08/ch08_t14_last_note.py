@@ -1,7 +1,7 @@
 inventory = {
     'gold': 500,
     # Assigned a new list to 'pouch' key
-    inventory 
+    inventory = 
     'pouch': ['flint', 'twine', 'gemstone'],
     'backpack': ['xylophone', 'dagger', 'bedroll', 'bread loaf']
 }
