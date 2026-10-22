@@ -7,7 +7,7 @@ inventory = {
 }
 
 # Adding a key 'burlap bag' and assigning a list to it
-inventory['pocket']
+inventory['pocket'] = []
 inventory['burlap bag'] = ['apple', 'small ruby', 'three-toed sloth']
 
 # Sorting the list found under the key 'pouch'
