@@ -15,3 +15,4 @@ inventory['backpack'].sort()
 inventory['pouch'].sort()
 inventory[ 'backpack'].remove('dagger')
 # Your code here
+inventory
