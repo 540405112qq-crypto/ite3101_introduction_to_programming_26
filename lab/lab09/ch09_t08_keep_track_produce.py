@@ -10,4 +10,4 @@ stock = {
     "orange": 32,
     "pear": 15,
 }
-for key in prices
+for key in prices:
