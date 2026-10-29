@@ -10,7 +10,7 @@ stock = {
     "orange": 32,
     "pear": 15,
 }
-for key in s:
+for key in stock:
     print(key)
     print("Prices: %s" % prices[key]) 
     print("Stock: %s" % stock[key])
