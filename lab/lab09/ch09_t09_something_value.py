@@ -19,4 +19,4 @@ for key in prices:
 total = 0
 for key in prices:
 
-value =pricr[num] * 
+value =pricr[num] * stock
