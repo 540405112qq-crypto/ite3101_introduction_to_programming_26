@@ -21,4 +21,4 @@ for key in prices:
 
     value =prices[i] * stock[i]
     total = total + value
-print()
+print(total)
