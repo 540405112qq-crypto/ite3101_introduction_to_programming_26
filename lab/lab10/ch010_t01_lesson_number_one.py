@@ -3,8 +3,4 @@ lloyd = {
   "homework" :[],
   "quizzes" :[],
    "tests" :[]
-
-
-
-
 }
