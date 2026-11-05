@@ -20,4 +20,4 @@ total = 0
 for key in prices:
 
     value =prices[i] * stock[i]
-    
+    total
