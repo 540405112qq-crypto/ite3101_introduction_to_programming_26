@@ -1,8 +1,8 @@
 lloyd = {
-  "name" :
-  "homework" :
-  "quizzes" :
-   "tests" :
+  "name" :[]
+  "homework" :[]
+  "quizzes" :[]
+   "tests" :[]
 
 
 
