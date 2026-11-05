@@ -22,4 +22,4 @@ def average(numbers):
     total = sum(numbers)
     total = float(numbers)
     result =    total / lan(numbers)
-    return total
+    return result
