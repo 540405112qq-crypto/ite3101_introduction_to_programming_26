@@ -11,7 +11,7 @@ alice = {
    "tests" :[]
 }
 lloyd = {
-  "name" : "t",
+  "name" : "tyler",
   "homework" :[],
   "quizzes" :[],
    "tests" :[]
