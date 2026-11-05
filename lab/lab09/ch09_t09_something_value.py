@@ -23,4 +23,4 @@ for i in prices:
     total = total + value
 print(total)
 
-while food 
+while food > 0
