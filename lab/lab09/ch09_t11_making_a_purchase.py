@@ -18,6 +18,6 @@ prices = {
 def compute_bil(food):
     total = 0
     for i in total:
-        
+        total = total + prices[i]
     return total
     
