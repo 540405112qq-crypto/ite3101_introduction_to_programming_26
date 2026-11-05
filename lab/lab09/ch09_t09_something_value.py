@@ -24,3 +24,4 @@ for i in prices:
 print(total)
 
 while food > 0:
+    
