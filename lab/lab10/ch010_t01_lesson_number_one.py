@@ -1,6 +1,7 @@
 lloyd = {
   "name",
- "homework", "quizzes", and "tests".
+ "homework", 
+ "quizzes", and "tests".
 
 
 
