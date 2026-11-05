@@ -22,3 +22,5 @@ for i in prices:
     value =prices[i] * stock[i]
     total = total + value
 print(total)
+
+while food 
