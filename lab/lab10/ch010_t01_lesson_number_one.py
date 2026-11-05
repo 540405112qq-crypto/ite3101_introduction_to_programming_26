@@ -1,7 +1,7 @@
 lloyd = {
   "name" : "lloyd",
   "homework" :[],
-  "quizzes" :[]
+  "quizzes" :[],
    "tests" :[]
 
 
