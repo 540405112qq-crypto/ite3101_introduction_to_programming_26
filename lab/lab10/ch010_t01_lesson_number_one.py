@@ -4,7 +4,7 @@ lloyd = {
   "quizzes" :[],
    "tests" :[]
 }
-lloyd = {
+alice = {
   "name" : "lloyd",
   "homework" :[],
   "quizzes" :[],
