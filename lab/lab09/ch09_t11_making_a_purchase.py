@@ -15,4 +15,4 @@ prices = {
 }
 
 # Write your code below!
-def 
+def
