@@ -6,7 +6,6 @@ def flatten(lists):
 for lists in flatten:
 
 .append() it to results.
-.append() it to results.
 
     results = results + numbers
 return results 
