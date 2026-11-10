@@ -7,6 +7,6 @@ for lists in flatten:
 
 
     results = results + numbers
-retrue
+return results 
 
 # print(flatten(n))
