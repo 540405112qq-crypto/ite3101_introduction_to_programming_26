@@ -49,6 +49,7 @@ print(get_letter_grade(get_average(lloyd)))
 
 # Add your function below!
 def get_class_average( class_list)
+       results=[0]
        
 
 
