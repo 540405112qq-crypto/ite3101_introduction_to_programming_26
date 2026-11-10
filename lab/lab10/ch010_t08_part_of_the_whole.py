@@ -57,6 +57,6 @@ def get_class_average(class_list):
 
 
     
-    results.append(a)
+results.append(a)
 
     return average(results)
