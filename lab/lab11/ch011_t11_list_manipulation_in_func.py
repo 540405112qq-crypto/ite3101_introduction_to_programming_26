@@ -1,6 +1,6 @@
 n = [3, 5, 7]
 # Add your function here
-list_extender
+def list_extender
 lst.append(9)
 
 
