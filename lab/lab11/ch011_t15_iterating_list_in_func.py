@@ -3,4 +3,4 @@ def total(numbers):
     result = 0
     for result in numbers:
          result = result + numbers
-        return result
+    return result
