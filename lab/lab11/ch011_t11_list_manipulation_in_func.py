@@ -1,6 +1,6 @@
 n = [3, 5, 7]
 # Add your function here
-def list_extender(n:lst(n)):
+def list_extender(n:lst):
    n = 9
 
 
