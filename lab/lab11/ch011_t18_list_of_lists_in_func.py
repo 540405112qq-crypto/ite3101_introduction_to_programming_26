@@ -9,6 +9,6 @@ def flatten(lists):
             results.append(number)
 
     
-   return results 
+    return results 
 
 # print(flatten(n))
