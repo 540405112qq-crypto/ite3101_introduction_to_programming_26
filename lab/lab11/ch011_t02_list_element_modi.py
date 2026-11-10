@@ -5,5 +5,3 @@ print(n)
 
 
 
-
-print(n)
