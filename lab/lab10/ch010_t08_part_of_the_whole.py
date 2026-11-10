@@ -53,6 +53,7 @@ def get_class_average( class_list):
        class_list=(get_average(lloyd))
        class_list=(get_average(alice))
        class_list=(get_average(tyler))
+       results.append()
 
 
 
