@@ -4,6 +4,6 @@ def join_strings(words):
     result = ""
 for words in result:
     words.append(result)
-    return   
+    return result   
 
 # print(join_strings(n)) 
