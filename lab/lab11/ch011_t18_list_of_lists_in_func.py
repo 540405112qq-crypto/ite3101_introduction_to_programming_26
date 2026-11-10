@@ -3,8 +3,8 @@ n = [[1, 2, 3], [4, 5, 6, 7, 8, 9]]
 def flatten(lists):
     results = []
 
-for lists in flatten:
-    
+for lists in :
+
 
     results.append(numbers)
 
