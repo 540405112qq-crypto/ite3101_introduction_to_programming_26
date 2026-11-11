@@ -1,1 +1,2 @@
-def board(list)
+def board(list):
+    
