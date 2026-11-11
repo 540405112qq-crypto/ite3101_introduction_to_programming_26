@@ -2,4 +2,4 @@ board = []
 
 
 
-borad.append()
+borad.append(["O"])
