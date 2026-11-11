@@ -37,3 +37,4 @@ else
     print("You missed my battleship!")
 
     guess_row, guess_col to "X".
+, guess_col to "X".
