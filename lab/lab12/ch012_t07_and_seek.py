@@ -29,4 +29,4 @@ def  guess_row( int(input("Guess Row: "))):
 
 
 
-def 
+def  guess_col
