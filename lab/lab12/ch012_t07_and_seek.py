@@ -24,4 +24,4 @@ random_row(board)
 random_col(board)
 
 # Add your code below!
-def  guess_row()
+def  guess_row( int(input("Guess Row: "))
