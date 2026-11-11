@@ -1,2 +1,2 @@
 def board(list):
-    return []
+    list = []
