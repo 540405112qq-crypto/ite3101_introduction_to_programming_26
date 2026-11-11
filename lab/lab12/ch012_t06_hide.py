@@ -17,4 +17,4 @@ def  random_row(board_in):
 
 
 
-def random_col()
+def random_col(board_in):
