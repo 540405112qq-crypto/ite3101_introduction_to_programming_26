@@ -1,2 +1,1 @@
-def board(list):
-    list = []
+board = []
