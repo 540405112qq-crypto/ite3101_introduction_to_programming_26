@@ -43,4 +43,4 @@ else:
 
 
 
-for 
+for board in ran
