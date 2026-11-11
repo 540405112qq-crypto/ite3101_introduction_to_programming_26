@@ -1,5 +1,5 @@
 board = []
-  reg
+  range(5)
   
 
 
