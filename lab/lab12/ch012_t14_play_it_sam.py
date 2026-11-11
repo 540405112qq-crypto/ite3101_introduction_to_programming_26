@@ -43,4 +43,5 @@ else:
 
 
 
-for board in ran
+for board in range(4):
+    
