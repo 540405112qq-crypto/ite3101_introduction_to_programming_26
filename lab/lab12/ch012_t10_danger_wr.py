@@ -36,5 +36,6 @@ if guess_row == ship_row and guess_col == ship_col:
 else
     print("You missed my battleship!")
 
-    guess_row, guess_col to "X".
-, guess_col to "X".
+    guess_row = x
+    guess_col = X
+reture
