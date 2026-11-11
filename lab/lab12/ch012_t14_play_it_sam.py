@@ -44,4 +44,4 @@ else:
 
 
 for board in range(4):
-    print("Turn", turn + 1)
+    print("Turn": turn + 1)
