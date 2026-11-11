@@ -1,2 +1,1 @@
-def board:
-   board = []
+def board()
