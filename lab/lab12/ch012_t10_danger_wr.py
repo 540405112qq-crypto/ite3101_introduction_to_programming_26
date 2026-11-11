@@ -35,7 +35,5 @@ if guess_row == ship_row and guess_col == ship_col:
 
 else:
     print("You missed my battleship!")
-    borad[guess_row = x
-        guess_col ]
-   
+    borad[guess_row = ][guess_col
    print_board(board)
