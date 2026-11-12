@@ -1,11 +1,7 @@
 n = [3, 5, 7]
-
-
-def double_list(n):
-    for i in range(0, len(n)):
-        n[i] = n[i] * 4
+def  double_list(x):
+      for i in range(0, len(x)):
+       x[i] = x[i] * 2
 # Don't forget to return your new list!
-    return n
-
-
+      return x
 print(double_list(n))
