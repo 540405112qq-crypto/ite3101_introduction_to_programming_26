@@ -1,5 +1,5 @@
 
-from typing import list
+from typing import List
 
 
 def remove_duplicates(seq:list[int])->list[int]:
