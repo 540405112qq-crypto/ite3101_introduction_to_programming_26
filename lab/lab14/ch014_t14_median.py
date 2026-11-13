@@ -1,2 +1,2 @@
 
-def median()
+def median(lst:)
