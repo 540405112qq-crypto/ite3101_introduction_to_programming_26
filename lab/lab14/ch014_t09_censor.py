@@ -1,1 +1,1 @@
-def censor
+def censor()
