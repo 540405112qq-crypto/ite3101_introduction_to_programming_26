@@ -1,3 +1,4 @@
 
 def remove_duplicates(seq:list[int])->int:
-    result = 
+    result = 0
+    
