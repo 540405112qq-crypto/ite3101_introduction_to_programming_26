@@ -1,1 +1,1 @@
-def anti_vowel(text:str) -> str:
+def anti_vowel(text:str) -> StopIteration:
