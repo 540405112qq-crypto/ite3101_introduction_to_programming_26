@@ -2,4 +2,4 @@ def censor(text:str,word:)->str:
     result = []
     for s in text.split():
         if s == word:
-            result.append
+            result.append("*")
