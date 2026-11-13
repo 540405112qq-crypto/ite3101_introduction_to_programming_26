@@ -1,2 +1,2 @@
 
-def product(seq)
+def product(seq:li)
