@@ -1,2 +1,2 @@
 
-def remove_duplicates(seq:)
+def remove_duplicates(seq:list)
