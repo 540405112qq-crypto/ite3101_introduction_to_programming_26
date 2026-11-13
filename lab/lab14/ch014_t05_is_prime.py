@@ -1,2 +1,1 @@
-def is_prime(x: int) -> int:
-    
+def is_prime(x: int) -> bool:
