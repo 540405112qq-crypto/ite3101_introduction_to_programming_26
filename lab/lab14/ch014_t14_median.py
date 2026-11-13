@@ -1,2 +1,2 @@
 
-def median(seq:)
+def median()
