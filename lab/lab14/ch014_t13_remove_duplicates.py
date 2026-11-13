@@ -1,5 +1,5 @@
 
-def remove_duplicates(seq:L[int])->int:
+def remove_duplicates(seq:List[int])->int:
     result = 0
     for item in seq:
         if item 
