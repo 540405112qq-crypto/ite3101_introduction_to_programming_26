@@ -1,5 +1,5 @@
 def purify(num:int) ->int:
     result = 0 
     for i in int:
-        if num %= 0:
+        if num //= 0:
    return result
