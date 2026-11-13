@@ -1,6 +1,6 @@
 
 from typing import List
-from unittest import resul
+
 
 
 def purify(seq:list[int]) ->List[int]:
