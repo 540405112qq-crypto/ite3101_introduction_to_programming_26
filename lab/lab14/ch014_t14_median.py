@@ -1,2 +1,2 @@
 
-def median(lst:List[int])
+def median(lst:List[int])-> float:
