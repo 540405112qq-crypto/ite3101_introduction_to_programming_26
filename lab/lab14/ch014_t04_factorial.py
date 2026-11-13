@@ -1,2 +1,2 @@
 def  factorial(x:int) -> bool:
-    return factorial(難)
+    return factorial(x)
