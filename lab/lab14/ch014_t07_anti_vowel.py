@@ -1,1 +1,1 @@
-def anti_vowel(text:str) -> int:
+def anti_vowel(text:str) -> str:
