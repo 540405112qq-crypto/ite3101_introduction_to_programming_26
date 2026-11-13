@@ -1,2 +1,2 @@
-def count(sequence:list,item:str)->str:
+def count(sequence:,item:str)->str:
     
