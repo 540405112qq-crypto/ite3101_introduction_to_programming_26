@@ -1,1 +1,2 @@
-def  factorial(x:int) -> bool
+def  factorial(x:int) -> bool:
+    
