@@ -1,4 +1,4 @@
 
-from typing 
+from typing import List
 
 def median(lst:List[int])-> float:
