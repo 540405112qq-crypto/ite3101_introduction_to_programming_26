@@ -8,4 +8,4 @@ def purify(seq:list[int]) ->List[int]:
     for item in seq:
         if item % 2 == 0:
             result.append(ITEM)
-   return result
+    return result
