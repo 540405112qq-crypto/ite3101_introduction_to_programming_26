@@ -1,2 +1,2 @@
 
-def median(lst:Lis)
+def median(lst:List[int])
