@@ -6,5 +6,5 @@ from unittest import resul
 def purify(seq:list[int]) ->List[int]:
     result = []
     for item in seq:
-        if item %= 0:
+        if item % 2 == 0:
    return result
