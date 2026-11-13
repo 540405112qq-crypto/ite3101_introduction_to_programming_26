@@ -1,2 +1,3 @@
 def  factorial(x:int) -> int:
-    return factorial(x=)
+    value = 0
+    return factorial(x)
