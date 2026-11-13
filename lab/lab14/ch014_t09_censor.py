@@ -1,2 +1,5 @@
 def censor(text:str,word:)->str:
-    resu
+    result = []
+    for s in text.split():
+        if s == word:
+            result.append
